@@ -16,6 +16,7 @@
 
 .nav-menu {
     display: flex;
+    margin-top: ;
 }
 
 .nav-menu li {
@@ -48,6 +49,8 @@
 
     .nav-menu.active {
         left: 0;
+        background-color: rgba(2, 9, 50);
+        height: auto;
     }
 
     .nav-menu li{
